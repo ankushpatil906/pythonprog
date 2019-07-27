@@ -1,0 +1,11 @@
+print(2+3+5*7)
+print(4/6)
+print(6/4)
+print(2**2)
+print(round(4**3,3))
+print((2+5)/7)
+
+print((2*2)/2%2)
+print(2%2)
+print(2**3**2)
+print(2**9)
